@@ -17,6 +17,6 @@ jobs:
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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
           BRANCH: master # The branch the action should deploy to.
           FOLDER: source # The folder the action should deploy.（这里就是把生成的public文件推#送到master分支）
